@@ -1,6 +1,4 @@
-# JetNet
-
-# JETnET: A Lightweight Encoder-Decoder Architecture for Semantic Segmentation
+# JETNet: A Lightweight Encoder-Decoder Architecture for Semantic Segmentation
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.7%2B-brightgreen.svg)](https://python.org)
@@ -8,13 +6,13 @@
 
 ## Overview
 
-JETnET (Joint Encoder-Transformer Network) is a lightweight convolutional neural network architecture designed for semantic segmentation tasks. The model combines residual connections with dilated convolutions to efficiently capture multi-scale contextual information while maintaining computational efficiency.
+JETNet (Joint Encoder-Transformer Network) is a lightweight convolutional neural network architecture designed for semantic segmentation tasks. The model combines residual connections with dilated convolutions to efficiently capture multi-scale contextual information while maintaining computational efficiency.
 
 ## Architecture
 
 ### Key Components
 
-The JETnET architecture consists of two main building blocks:
+The JETNet architecture consists of two main building blocks:
 
 **JetBlock**: A custom residual block that incorporates:
 - Two 3×3 convolutional layers with batch normalization
