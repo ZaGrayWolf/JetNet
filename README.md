@@ -154,7 +154,7 @@ This architecture draws inspiration from several foundational works in computer 
 
 ## Applications
 
-JETnET is suitable for various semantic segmentation tasks:
+JETNet is suitable for various semantic segmentation tasks:
 
 - **Autonomous Driving**: Road scene understanding
 - **Medical Imaging**: Organ and tissue segmentation
@@ -182,10 +182,10 @@ If you use JETnET in your research, please cite:
 
 ```bibtex
 @software{jetnet2024,
-  title={JETnET: A Lightweight Encoder-Decoder Architecture for Semantic Segmentation},
+  title={JETNet: A Lightweight Encoder-Decoder Architecture for Semantic Segmentation},
   author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/jetnet}
+  year={2025},
+  url={https://github.com/ZaGrayWolf/JetNet}
 }
 ```
 
